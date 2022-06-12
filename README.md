@@ -1,4 +1,4 @@
-#Project #1: Mighty Ducks Hockey League
+# Project #1: Mighty Ducks Hockey League
 
 Project in which simple practices of **HTML** and **CSS** are implemented.
 
